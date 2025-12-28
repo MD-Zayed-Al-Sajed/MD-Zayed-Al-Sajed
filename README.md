@@ -16,10 +16,7 @@ I develop platforms, automation, and AI systems: turning complex challenges into
 </td>
 <td width="45%" valign="top">
 
-![C++](https://img.shields.io/badge/C%2B%2B-0b0f14?style=for-the-badge&logo=c%2B%2B&logoColor=76b900)
-![Python](https://img.shields.io/badge/Python-0b0f14?style=for-the-badge&logo=python&logoColor=76b900)
-![Java](https://img.shields.io/badge/Java-0b0f14?style=for-the-badge&logo=openjdk&logoColor=76b900)
-![CUDA](https://img.shields.io/badge/CUDA-0b0f14?style=for-the-badge&logo=nvidia&logoColor=76b900)
+<img src="https://raw.githubusercontent.com/MD-Zayed-Al-Sajed/MD-Zayed-Al-Sajed/main/github-metrics.svg" width="100%" />
 
 
 </td>
