@@ -1,7 +1,11 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 6 * * *"   # daily (Toronto morning-ish)
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
@@ -11,18 +15,26 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: MD-Zayed-Al-Sajed
+
+          # Output file
+          filename: github-metrics.svg
+
+          # Base sections
           template: classic
           base: header, activity, repositories
+
+          # Languages (the part you want)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, scss, typescript, makefile, astro, glsl
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_indepth: yes
+
+          # Timezone
           config_timezone: America/Toronto
 
-          # Theme (dark ash + green)
+          # Look & feel (dark ash + cyber green)
           config_display: large
           config_padding: 12%
-          config_output: svg
-          config_order: base
-
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, scss, javascript, typescript, makefile, astro, glsl
-          plugin_languages_limit: 8
-          plugin_languages_colors: github
-          plugin_languages_sections: most-used
+          config_order: base, languages
