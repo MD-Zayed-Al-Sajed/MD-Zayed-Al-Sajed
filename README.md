@@ -67,6 +67,22 @@ I develop platforms, automation, and AI systems: turning complex challenges into
 </details>
 
 <details>
+  <summary><b>🏆 Honors & Awards</b></summary>
+
+  <br/>
+
+  <b>Dean’s List Recognition</b><br/>
+  <i>Georgian College · Aug 2025</i><br/>
+  Awarded for academic excellence – Summer 2025  
+
+  <b>Innovation FinTech Weekend 2024 (Hackathon) – 3rd Place</b><br/>
+  <i>Toronto Business College (powered by Matera) · Nov 2024</i><br/>
+  Achieved 3rd place among <b>120+ participants</b> and <b>20+ teams</b>,  
+  recognized for innovation, teamwork, and leadership under pressure.
+
+</details>
+
+<details>
   <summary><b>📜 Licenses & Certifications</b></summary>
 
 
