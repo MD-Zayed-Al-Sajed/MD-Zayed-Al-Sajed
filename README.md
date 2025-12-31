@@ -78,17 +78,66 @@ I develop platforms, automation, and AI systems: turning complex challenges into
   <i>Microsoft</i><br/>
   🔗 https://learn.microsoft.com/api/achievements/share/en-us/MdZayedAlSajed-4476/HA2BK5K8?sharingId=336A8BE10880E4CF
 
+![Incident Response](https://img.shields.io/badge/Incident%20Response-0b0f14?style=for-the-badge&logo=opsgenie&logoColor=76b900)
+![Cloud Security Monitoring](https://img.shields.io/badge/Cloud%20Security%20Monitoring-0b0f14?style=for-the-badge&logo=microsoftazure&logoColor=76b900)
+![Threat Detection](https://img.shields.io/badge/Threat%20Detection-0b0f14?style=for-the-badge&logo=securityscorecard&logoColor=76b900)
+![Security Alerts & Triage](https://img.shields.io/badge/Security%20Alert%20Triage-0b0f14?style=for-the-badge&logo=alertmanager&logoColor=76b900)
+![Attack Surface Management](https://img.shields.io/badge/Attack%20Surface%20Management-0b0f14?style=for-the-badge&logo=azuredevops&logoColor=76b900)
+![Cloud Posture Management](https://img.shields.io/badge/Cloud%20Security%20Posture%20Management-0b0f14?style=for-the-badge&logo=microsoft&logoColor=76b900)
+![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-0b0f14?style=for-the-badge&logo=diagram&logoColor=76b900)
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-0b0f14?style=for-the-badge&logo=elastic&logoColor=76b900)
+![Security Automation](https://img.shields.io/badge/Security%20Automation-0b0f14?style=for-the-badge&logo=ansible&logoColor=76b900)
+![Risk Management](https://img.shields.io/badge/Risk%20Management-0b0f14?style=for-the-badge&logo=checkmarx&logoColor=76b900)
+
+
   <b>Google Cybersecurity Professional Certificate</b><br/>
   <i>Coursera / Google</i><br/>
   🔗 https://coursera.org/share/cc40bfd45dba95d63d8f5ebc7a57b475
+  
+![Incident Response](https://img.shields.io/badge/Incident%20Response-0b0f14?style=for-the-badge&logo=opsgenie&logoColor=76b900)
+![Security Incident Management](https://img.shields.io/badge/Security%20Incident%20Management-0b0f14?style=for-the-badge&logo=securityscorecard&logoColor=76b900)
+![Network Protocols](https://img.shields.io/badge/Network%20Protocols-0b0f14?style=for-the-badge&logo=cisco&logoColor=76b900)
+![Python Programming](https://img.shields.io/badge/Python%20Programming-0b0f14?style=for-the-badge&logo=python&logoColor=76b900)
+![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-0b0f14?style=for-the-badge&logo=gnu-bash&logoColor=76b900)
+![Cyber Threat Intelligence](https://img.shields.io/badge/Cyber%20Threat%20Intelligence-0b0f14?style=for-the-badge&logo=virustotal&logoColor=76b900)
+![Cyber Attacks](https://img.shields.io/badge/Cyber%20Attacks-0b0f14?style=for-the-badge&logo=hackaday&logoColor=76b900)
+![Intrusion Detection](https://img.shields.io/badge/Intrusion%20Detection%20%26%20Prevention-0b0f14?style=for-the-badge&logo=snort&logoColor=76b900)
+![Vulnerability Management](https://img.shields.io/badge/Vulnerability%20Management-0b0f14?style=for-the-badge&logo=snyk&logoColor=76b900)
+![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-0b0f14?style=for-the-badge&logo=owasp&logoColor=76b900)
+![Debugging](https://img.shields.io/badge/Debugging-0b0f14?style=for-the-badge&logo=bugcrowd&logoColor=76b900)
+
   
   <b>Artificial Intelligence Fundamentals</b><br/>
   <i>IBM</i><br/>
   🔗 https://www.credly.com/badges/6ec664ec-2b27-468b-8be3-e20151f87727/public_url
 
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-0b0f14?style=for-the-badge&logo=openai&logoColor=76b900)
+![AI Applications](https://img.shields.io/badge/AI%20Applications-0b0f14?style=for-the-badge&logo=ai&logoColor=76b900)
+![AI Capabilities](https://img.shields.io/badge/AI%20Capabilities-0b0f14?style=for-the-badge&logo=brain&logoColor=76b900)
+![AI Ethics](https://img.shields.io/badge/AI%20Ethics-0b0f14?style=for-the-badge&logo=trustpilot&logoColor=76b900)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0b0f14?style=for-the-badge&logo=scikitlearn&logoColor=76b900)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0b0f14?style=for-the-badge&logo=pytorch&logoColor=76b900)
+![Artificial Neural Networks](https://img.shields.io/badge/Artificial%20Neural%20Networks-0b0f14?style=for-the-badge&logo=tensorflow&logoColor=76b900)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0b0f14?style=for-the-badge&logo=opencv&logoColor=76b900)
+![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-0b0f14?style=for-the-badge&logo=nlp&logoColor=76b900)
+![Chatbots](https://img.shields.io/badge/Chatbots-0b0f14?style=for-the-badge&logo=chatbot&logoColor=76b900)
+![IBM Watson Studio](https://img.shields.io/badge/IBM%20Watson%20Studio-0b0f14?style=for-the-badge&logo=ibm&logoColor=76b900)
+![PWID-B0133500](https://img.shields.io/badge/IBM%20Credential%20ID%20PWID--B0133500-0b0f14?style=for-the-badge&logo=ibm&logoColor=76b900)
+
+
   <b>Microsoft Certified: Azure Fundamentals</b><br/>
-  <i>AZ-900</i><br/>
+  <i>Microsoft</i><br/>
   🔗 https://learn.microsoft.com/api/achievements/share/en-us/MdZayedAlSajed-4476/NZNP2E6F?sharingId=336A8BE10880E4CF
+
+![Cloud Computing Concepts](https://img.shields.io/badge/Cloud%20Computing%20Concepts-0b0f14?style=for-the-badge&logo=microsoftazure&logoColor=76b900)
+![Azure Core Services](https://img.shields.io/badge/Azure%20Core%20Services-0b0f14?style=for-the-badge&logo=microsoftazure&logoColor=76b900)
+![Cloud Architecture Basics](https://img.shields.io/badge/Cloud%20Architecture%20Basics-0b0f14?style=for-the-badge&logo=cloud&logoColor=76b900)
+![Compute, Storage & Networking](https://img.shields.io/badge/Compute%2C%20Storage%20%26%20Networking-0b0f14?style=for-the-badge&logo=serverfault&logoColor=76b900)
+![Identity & Access Management](https://img.shields.io/badge/Identity%20%26%20Access%20Management-0b0f14?style=for-the-badge&logo=microsoftazure&logoColor=76b900)
+![Cloud Security Basics](https://img.shields.io/badge/Cloud%20Security%20Basics-0b0f14?style=for-the-badge&logo=securityscorecard&logoColor=76b900)
+![Pricing & Cost Management](https://img.shields.io/badge/Pricing%20%26%20Cost%20Management-0b0f14?style=for-the-badge&logo=googleanalytics&logoColor=76b900)
+![Shared Responsibility Model](https://img.shields.io/badge/Shared%20Responsibility%20Model-0b0f14?style=for-the-badge&logo=datadog&logoColor=76b900)
+![Cloud Governance](https://img.shields.io/badge/Cloud%20Governance%20Basics-0b0f14?style=for-the-badge&logo=microsoft&logoColor=76b900)
 
 </details>
 
