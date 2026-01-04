@@ -1,7 +1,6 @@
 ## Hi, I'm Zayed
 
-A **System Software Engineer**.  
-I develop platforms, automation, and AI systems: turning complex challenges into clean, reliable, and high-performance solutions.
+**System Software Engineer** developing platforms, automation, and AI systems, with an emphasis on state-oriented design to ensure correctness, reliability, and predictable behavior under real-world constraints.
 
 
 <table>
