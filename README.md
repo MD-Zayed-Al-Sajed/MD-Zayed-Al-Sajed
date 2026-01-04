@@ -165,7 +165,11 @@ I develop platforms, automation, and AI systems: turning complex challenges into
 
   <br/>
 
-  System & Software Engineer specializing in system-centered AI/ML and intelligent automation, focused on real-world decision-making rather than content generation. Emphasis on building reliable, explainable, and scalable data and infrastructure systems that reduce human error and improve operational performance in complex environments such as logistics, infrastructure, transportation, and large-scale platforms. Focused on transforming complex system challenges into clean, reliable, and high-performance solutions, designed with predefined constraints, rules, and safety checks to ensure security, compliance, reliability, and ethical system behavior.
+  System & Software Engineer specializing in system-centered AI/ML and intelligent automation, focused on real-world decision-making software. Emphasis on building reliable, explainable, and scalable data and infrastructure systems that reduce human error and improve operational performance in complex environments such as logistics, infrastructure, transportation, and large-scale platforms. 
+  
+  Focused on transforming complex system challenges into clean, reliable, and high-performance solutions, designed with predefined constraints, rules, and safety checks to ensure security, compliance, reliability, and ethical system behavior.
+  
+  Experience includes advanced programming in C++, Java, and Python across backend, mobile, web, and real-time systems through diploma training and production projects, with strong algorithmic foundations, time-complexity awareness, and deep familiarity with Linux/Unix environments and software lifecycles. Work centers on intelligent automation and internal tooling, consistently prioritizing system correctness, traceability, modularity, and optimized state-driven design under real-world performance constraints.
 
   <br/><br/>
 </details>
