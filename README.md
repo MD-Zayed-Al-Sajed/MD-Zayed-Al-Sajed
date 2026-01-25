@@ -1,6 +1,6 @@
 ## Hi, I'm Zayed
 
-**System Software Engineer** developing platforms, automation, and AI systems, with an emphasis on **State-Driven Design** to ensure correctness, reliability, and predictable behavior under real-world constraints.
+**System Oriented Software Engineer** developing platforms, automation, and AI systems, with an emphasis on **State-Driven Design** to ensure correctness, reliability, and predictable behavior under real-world constraints.
 
 
 <table>
@@ -164,11 +164,9 @@
 
   <br/>
 
-  System & Software Engineer specializing in system-centered AI/ML and intelligent automation, focused on real-world decision-making software. Emphasis on building reliable, explainable, and scalable data and infrastructure systems that reduce human error and improve operational performance in complex environments such as logistics, infrastructure, transportation, and large-scale platforms. 
-  
-  Focused on transforming complex system challenges into clean, reliable, and high-performance solutions, designed with predefined constraints, rules, and safety checks to ensure security, compliance, reliability, and ethical system behavior.
-  
-  Experience includes advanced programming in C++, Java, and Python across backend, mobile, web, and real-time systems through diploma training and production projects, with strong algorithmic foundations, time-complexity awareness, and deep familiarity with Linux/Unix environments and software lifecycles. Work centers on intelligent automation and internal tooling, consistently prioritizing system correctness, traceability, modularity, and optimized state-driven design under real-world performance constraints.
+  Systems-oriented software engineer focused on building software solutions, automation, platform systems development & security, performance, and reliability constraints. Experienced with developing web applications, high-fidelity software & IoT solutions through production and computer programming (co-op) diploma. Won an award for innovation in a FinTech solution. Combining technical depth with cross-functional leadership and mentorship experience.
+
+  I apply engineering principles to design, develop, and maintain complex, reliable software & systems, focusing on the big picture, decision intelligence, integrating software with hardware, user needs, and business goals across the entire lifecycle.
 
   <br/><br/>
 </details>
