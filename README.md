@@ -1,6 +1,7 @@
 ## Hi, I'm Zayed
 
-**System Oriented Software Engineer** developing platforms, automation, and AI systems, with an emphasis on **State-Driven Design** to ensure correctness, reliability, and predictable behavior under real-world constraints.
+**System Oriented Software Engineer**
+focus on Intelligent Computation and performance engineering. Delivaring relatable solutions.
 
 
 <table>
