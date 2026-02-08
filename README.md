@@ -56,20 +56,6 @@ focus on Intelligent Computation and performance engineering. Delivaring relatab
 </details>
 
 <details>
-  <summary><b>🎓 Education</b></summary>
-
-  <br/>
-
-  <b>Computer Programming Diploma (Post-Secondary)</b><br/>
-  Georgian College, Ontario, Canada<br/><br/>
-
-  <b>(BSc) Civil Engineering - incomplete (Completed Core STEM Decepline – 2 Years)</b><br/>
-  East West University, Dhaka, Bangladesh
-
-  <br/><br/>
-</details>
-
-<details>
   <summary><b>🏆 Honors & Awards</b></summary>
 
   <br/>
