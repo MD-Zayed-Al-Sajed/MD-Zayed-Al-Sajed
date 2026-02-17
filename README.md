@@ -52,7 +52,7 @@ focus on Intelligent Computation and performance engineering. Delivaring relatab
   ![Problem Identification](https://img.shields.io/badge/Problem%20Identification-0b0f14?style=for-the-badge&logo=search&logoColor=76b900)
   ![Critical Problem Solving](https://img.shields.io/badge/Critical%20Problem%20Solving-0b0f14?style=for-the-badge&logo=abstract&logoColor=76b900)
   ![System Analytics](https://img.shields.io/badge/System%20Analytics-0b0f14?style=for-the-badge&logo=datadog&logoColor=76b900)
-  ![Automation with Guardrails](https://img.shields.io/badge/Automation%20with%20Guardrails-0b0f14?style=for-the-badge&logo=githubactions&logoColor=76b900)
+  ![Automation & AI Safety](https://img.shields.io/badge/Automation%20with%20Guardrails-0b0f14?style=for-the-badge&logo=githubactions&logoColor=76b900)
   ![Real-World Constraints](https://img.shields.io/badge/Real--World%20Constraints-0b0f14?style=for-the-badge&logo=lock&logoColor=76b900)
   ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-0b0f14?style=for-the-badge&logo=powerbi&logoColor=76b900)
   ![Analytical Physics](https://img.shields.io/badge/Analytical%20Physics-0b0f14?style=for-the-badge&logo=atom&logoColor=76b900)
