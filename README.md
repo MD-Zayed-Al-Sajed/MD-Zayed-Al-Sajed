@@ -45,7 +45,7 @@ focus on Intelligent Computation and performance engineering. Delivaring relatab
   ![Linux](https://img.shields.io/badge/Linux-0b0f14?style=for-the-badge&logo=linux&logoColor=76b900)
   ![Performance](https://img.shields.io/badge/Performance%20Engineering-0b0f14?style=for-the-badge&logo=speedtest&logoColor=76b900)
   ![System Architecture](https://img.shields.io/badge/System%20Architecture-0b0f14?style=for-the-badge&logo=archlinux&logoColor=76b900)
-  ![Technical Art / CGI](https://img.shields.io/badge/Technical%20Art%20%2F%20CGI-0b0f14?style=for-the-badge&logo=blender&logoColor=76b900)
+  ![Technical Art / CGI & Computer Vision](https://img.shields.io/badge/Technical%20Art%20%2F%20CGI-0b0f14?style=for-the-badge&logo=blender&logoColor=76b900)
   <br/>
   <br/>
   ![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-0b0f14?style=for-the-badge&logo=thinkpad&logoColor=76b900)
@@ -58,7 +58,7 @@ focus on Intelligent Computation and performance engineering. Delivaring relatab
   ![Analytical Physics](https://img.shields.io/badge/Analytical%20Physics-0b0f14?style=for-the-badge&logo=atom&logoColor=76b900)
   ![Biology](https://img.shields.io/badge/Biology%20(Analytical)-0b0f14?style=for-the-badge&logo=dna&logoColor=76b900)
   ![Microsoft Stack](https://img.shields.io/badge/Microsoft%20Stack-0b0f14?style=for-the-badge&logo=microsoft&logoColor=76b900)
-  ![Payment Systems](https://img.shields.io/badge/Payment%20Systems-0b0f14?style=for-the-badge&logo=paypal&logoColor=76b900)
+  ![Payment Systems & Blockchain Technology](https://img.shields.io/badge/Payment%20Systems-0b0f14?style=for-the-badge&logo=paypal&logoColor=76b900)
 
 </details>
 
