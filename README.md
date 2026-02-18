@@ -46,13 +46,14 @@ focus on Intelligent Computation and performance engineering. Delivaring relatab
   ![Performance](https://img.shields.io/badge/Performance%20Engineering-0b0f14?style=for-the-badge&logo=speedtest&logoColor=76b900)
   ![System Architecture](https://img.shields.io/badge/System%20Architecture-0b0f14?style=for-the-badge&logo=archlinux&logoColor=76b900)
   ![Technical Art / CGI & Computer Vision](https://img.shields.io/badge/Technical%20Art%20%2F%20CGI-0b0f14?style=for-the-badge&logo=blender&logoColor=76b900)
+  ![Unity & Unreal Engine](https://img.shields.io/badge/Unity%20&%20Unreal%20Engine-0b0f14?style=for-the-badge&logo=unity&logoColor=76b900)
   <br/>
   <br/>
   ![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-0b0f14?style=for-the-badge&logo=thinkpad&logoColor=76b900)
   ![Problem Identification](https://img.shields.io/badge/Problem%20Identification-0b0f14?style=for-the-badge&logo=search&logoColor=76b900)
   ![Critical Problem Solving](https://img.shields.io/badge/Critical%20Problem%20Solving-0b0f14?style=for-the-badge&logo=abstract&logoColor=76b900)
   ![System Analytics](https://img.shields.io/badge/System%20Analytics-0b0f14?style=for-the-badge&logo=datadog&logoColor=76b900)
-  ![Automation & AI Safety](https://img.shields.io/badge/Automation%20with%20Guardrails-0b0f14?style=for-the-badge&logo=githubactions&logoColor=76b900)
+  ![Automation & AI Safety](https://img.shields.io/badge/Automation%20&%20AI%20Safety-0b0f14?style=for-the-badge&logo=githubactions&logoColor=76b900)
   ![Real-World Constraints](https://img.shields.io/badge/Real--World%20Constraints-0b0f14?style=for-the-badge&logo=lock&logoColor=76b900)
   ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-0b0f14?style=for-the-badge&logo=powerbi&logoColor=76b900)
   ![Analytical Physics](https://img.shields.io/badge/Analytical%20Physics-0b0f14?style=for-the-badge&logo=atom&logoColor=76b900)
@@ -158,7 +159,7 @@ focus on Intelligent Computation and performance engineering. Delivaring relatab
 
   <br/>
 
-  Systems-oriented software engineer focused on building software solutions, automation, platform systems development & security, performance, and reliability constraints. Experienced with developing web applications, high-fidelity software & IoT solutions through production and computer programming (co-op) diploma. Won an award for innovation in a FinTech solution. Combining technical depth with cross-functional leadership and mentorship experience.
+  Systems-oriented software engineer focused on building software solutions, automation, platform systems development with security, performance, and reliability constraints. Experienced with developing web applications, high-fidelity software & IoT solutions through production and computer programming (co-op) diploma. Won an award for innovation in a FinTech solution. Combining technical depth with cross-functional leadership and mentorship experience.
 
   I apply engineering principles to design, develop, and maintain complex, reliable software & systems, focusing on the big picture, decision intelligence, integrating software with hardware, user needs, and business goals across the entire lifecycle.
 
