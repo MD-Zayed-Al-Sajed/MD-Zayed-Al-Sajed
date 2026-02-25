@@ -19,13 +19,6 @@ focus on Intelligent Computation and performance engineering. Delivaring relatab
 
 <img src="https://raw.githubusercontent.com/MD-Zayed-Al-Sajed/MD-Zayed-Al-Sajed/main/github-metrics.svg" width="100%" />
 
-<p align="center">
-  <a href="https://mdzayedalsajed.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img alt="View My Website"
-         src="https://img.shields.io/badge/View%20My%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-</p>
-
 <details>
   <summary><b>Core Technologies, Algorithms & Skills</b></summary>
 
@@ -103,7 +96,7 @@ focus on Intelligent Computation and performance engineering. Delivaring relatab
 ![Risk Management](https://img.shields.io/badge/Risk%20Management-0b0f14?style=for-the-badge&logo=checkmarx&logoColor=76b900)
 
 
-  <b>Google Cybersecurity Professional Certificate</b><br/>
+  <b>Google Cybersecurity Certificate</b><br/>
   <i>Coursera / Google</i><br/>
   🔗 https://coursera.org/share/cc40bfd45dba95d63d8f5ebc7a57b475
   
