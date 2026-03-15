@@ -1,7 +1,7 @@
 ## Hi, I'm Zayed
 
 **System Oriented Software Engineer**
-focused on real-time systems, distributed data platforms, Optimization and performance-aware infrastructure & software development.
+focused on real-time systems, distributed data platforms, performance-aware infrastructure & autonomy development.
 
 
 <table>
