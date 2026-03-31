@@ -1,8 +1,7 @@
-## Hi, I'm Zayed
+## I'm Zayed
 
-**System Oriented Software Engineer**
-focused on real-time systems, distributed data platforms, performance-aware infrastructure & autonomy development.
-
+**System & Software Developer**
+Solving problems at the intersection of real-time constraints and distributed systems, from 60fps, embedded control systems to sub-second streaming platforms.
 
 <table>
 <tr>
@@ -19,6 +18,10 @@ focused on real-time systems, distributed data platforms, performance-aware infr
 <br/>
 
 <img src="https://raw.githubusercontent.com/MD-Zayed-Al-Sajed/MD-Zayed-Al-Sajed/main/github-metrics.svg" width="100%" />
+
+<p align="left">
+  <img src="./boundary-signal.svg" width="420" />
+</p>
 
 </td>
 </tr>
