@@ -1,0 +1,18 @@
+<svg width="560" height="30" viewBox="0 0 560 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="560" height="30" rx="6" fill="#0B0F14"/>
+
+  <text x="14" y="19" fill="#76B900" font-family="monospace" font-size="12">
+    [ signal unstable ]
+    <animate attributeName="opacity" values="1;0.2;1;0.1;1;0.6;1" dur="1.4s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="150" y="19" fill="#D9E7C2" font-family="monospace" font-size="12">
+    where the boundary stopped holding
+    <animate attributeName="opacity" values="1;0.85;1;0.7;1" dur="2.1s" repeatCount="indefinite"/>
+  </text>
+
+  <circle cx="535" cy="15" r="3" fill="#76B900">
+    <animate attributeName="r" values="2;4;2" dur="0.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.2;1" dur="0.9s" repeatCount="indefinite"/>
+  </circle>
+</svg>
