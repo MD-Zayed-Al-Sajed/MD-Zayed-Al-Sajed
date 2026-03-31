@@ -9,6 +9,20 @@ Solving problems at the intersection of real-time constraints and distributed sy
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-Zayed-Al-Sajed&bg_color=0b0f14&color=c9d1d9&line=76b900&point=76b900&area=true&hide_border=true" width="100%" />
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="quantum-orbit-vibe.svg" width="70" />
+    </td>
+    <td align="center">
+      <img src="autonomous-path-planning-trace.svg" width="260" />
+    </td>
+    <td align="center">
+      <img src="quantum-orbit-vibe.svg" width="70" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=800&color=52DEFF&center=true&vCenter=true&width=600&height=40&duration=3000&lines=What+problems+are+you+trying+to+solve+%E2%80%94;where+the+boundary+shattered%3F" alt="Typing SVG" />
 </p>
