@@ -1,8 +1,5 @@
-## I'm Zayed
-
-**System & Software Developer**
-Solving problems at the intersection of real-time constraints and distributed systems, from 60fps, embedded control systems to sub-second streaming platforms.
-
+## I'm Zayed - ꜱʏꜱᴛᴇᴍꜱ ꜱᴡᴇ | ᴅᴀᴛᴀ • ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ • ᴀᴜᴛᴏɴᴏᴍʏ
+ꜱᴏʟᴠɪɴɢ ᴘʀᴏʙʟᴇᴍꜱ ᴀᴛ ᴛʜᴇ ɪɴᴛᴇʀꜱᴇᴄᴛɪᴏɴ ᴏꜰ ʀᴇᴀʟ-ᴛɪᴍᴇ ᴄᴏɴꜱᴛʀᴀɪɴᴛꜱ ᴀɴᴅ ᴅɪꜱᴛʀɪʙᴜᴛᴇᴅ ꜱʏꜱᴛᴇᴍꜱ, ꜰʀᴏᴍ 60ꜰᴘꜱ ᴇᴍʙᴇᴅᴅᴇᴅ ᴄᴏɴᴛʀᴏʟ ꜱʏꜱᴛᴇᴍꜱ ᴛᴏ ꜱᴜʙ-ꜱᴇᴄᴏɴᴅ ꜱᴛʀᴇᴀᴍɪɴɢ ᴘʟᴀᴛꜰᴏʀᴍꜱ.
 <table>
 <tr>
 <td width="100%">
