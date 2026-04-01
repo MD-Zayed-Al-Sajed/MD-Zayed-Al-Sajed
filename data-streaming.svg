@@ -1,0 +1,37 @@
+<svg width="420" height="154" viewBox="0 0 420 154" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="softGlow4" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="419" height="153" rx="10" fill="#0B0F14" stroke="#1E293B"/>
+
+  <circle cx="20" cy="22" r="5" stroke="#76B900" stroke-width="1.8" filter="url(#softGlow4)"/>
+  <circle cx="36" cy="22" r="5" stroke="#76B900" stroke-width="1.8"/>
+  <path d="M25 22H31" stroke="#9FBF7A" stroke-width="1.6" stroke-linecap="round"/>
+
+  <text x="62" y="27" fill="#D7E3F4" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">
+    Data &amp; Streaming
+  </text>
+
+  <line x1="20" y1="46.5" x2="400" y2="46.5" stroke="#1E293B"/>
+
+  <text x="28" y="68" fill="#C9D4E3" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500">
+    Kafka · Faust · PostgreSQL · TimescaleDB
+  </text>
+  <text x="28" y="90" fill="#C9D4E3" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500">
+    Schema Registry · Stream Processing
+  </text>
+  <text x="28" y="112" fill="#C9D4E3" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500">
+    Observability Pipelines
+  </text>
+
+  <circle cx="392" cy="18" r="1.6" fill="#76B900" opacity="0.75" filter="url(#softGlow4)">
+    <animate attributeName="opacity" values="0.12;0.8;0.25;0.7;0.12" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
