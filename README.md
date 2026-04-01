@@ -35,10 +35,27 @@
 </p>
 
 <details>
-  <summary><b>▸ Programming Languages</b></summary>
+  <summary>
+    <div align="center">
+      <b>▼ Explore Core Stack &amp; Creative Systems</b>
+    </div>
+  </summary>
   <br>
-  <img src="programming-languages.svg" alt="Programming Languages" />
+
+  <div>
+    <img src="programming-languages.svg" alt="Programming Languages" width="420" />
+    <img src="backend-systems.svg" alt="Backend &amp; Systems" width="420" />
+    <br><br>
+    <img src="infrastructure-devops.svg" alt="Infrastructure &amp; DevOps" width="420" />
+    <img src="data-streaming.svg" alt="Data &amp; Streaming" width="420" />
+    <br><br>
+    <img src="security-integrity.svg" alt="Systems Security &amp; Data Integrity" width="420" />
+    <img src="audio-art-game-engine.svg" alt="Audio, Art &amp; Game Engine" width="420" />
+  </div>
 </details>
+<p align="center">
+  <img src="readme-footer-signal.svg" alt="Footer Signal" width="820" />
+</p>
 
 </td>
 </tr>
