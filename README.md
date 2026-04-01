@@ -34,6 +34,12 @@
   <img src="./boundary-signal.svg" width="420" />
 </p>
 
+<details>
+  <summary><b>▸ Programming Languages</b></summary>
+  <br>
+  <img src="programming-languages.svg" alt="Programming Languages" />
+</details>
+
 </td>
 </tr>
 </table>
