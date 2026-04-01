@@ -1,0 +1,34 @@
+<svg width="420" height="132" viewBox="0 0 420 132" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="softGlow3" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="419" height="131" rx="10" fill="#0B0F14" stroke="#1E293B"/>
+
+  <path d="M18 28H38" stroke="#76B900" stroke-width="1.8" stroke-linecap="round" filter="url(#softGlow3)"/>
+  <path d="M18 22H38" stroke="#76B900" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M18 16H38" stroke="#76B900" stroke-width="1.8" stroke-linecap="round"/>
+
+  <text x="62" y="27" fill="#D7E3F4" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">
+    Infrastructure &amp; DevOps
+  </text>
+
+  <line x1="20" y1="46.5" x2="400" y2="46.5" stroke="#1E293B"/>
+
+  <text x="28" y="68" fill="#C9D4E3" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500">
+    Docker · Linux · CI/CD · Git
+  </text>
+  <text x="28" y="90" fill="#C9D4E3" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500">
+    Azure · Prometheus · Grafana · Jaeger
+  </text>
+
+  <circle cx="386" cy="20" r="1.5" fill="#9FBF7A" opacity="0.75" filter="url(#softGlow3)">
+    <animate attributeName="opacity" values="0.15;0.75;0.25;0.7;0.15" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
