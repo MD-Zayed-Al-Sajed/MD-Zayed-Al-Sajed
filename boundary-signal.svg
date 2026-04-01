@@ -6,12 +6,12 @@
   </circle>
 
   <text x="28" y="16" fill="#9FBF7A" font-family="monospace" font-size="12">
-    boundary hit // adaptation triggered
+    Boundary hit // adaptation triggered &
     <animate attributeName="opacity" values="1;0.75;1;0.85;1" dur="1.8s" repeatCount="indefinite"/>
   </text>
 
   <text x="28" y="30" fill="#9FBF7A" font-family="monospace" font-size="12">
-    development with security in mind keeps us strong
+    Development with security in mind keeps us strong
     <animate attributeName="opacity" values="1;0.75;1;0.85;1" dur="1.8s" repeatCount="indefinite"/>
   </text>
 
