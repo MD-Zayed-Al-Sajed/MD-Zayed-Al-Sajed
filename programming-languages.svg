@@ -1,0 +1,55 @@
+<svg width="420" height="132" viewBox="0 0 420 132" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="419" height="131" rx="10" fill="#0B0F14" stroke="#1E293B"/>
+
+  <!-- left symbol -->
+  <path d="M24 14L16 22L24 30" stroke="#76B900" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" filter="url(#softGlow)"/>
+  <path d="M34 14L42 22L34 30" stroke="#76B900" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" filter="url(#softGlow)"/>
+  <path d="M29 12L26 32" stroke="#9FBF7A" stroke-width="1.8" stroke-linecap="round"/>
+
+  <!-- title -->
+  <text x="62" y="27" fill="#D7E3F4" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="0.2px">
+    Programming Languages
+  </text>
+
+  <!-- divider -->
+  <line x1="20" y1="46.5" x2="400" y2="46.5" stroke="#1E293B"/>
+
+  <!-- language list -->
+  <text x="28" y="68" fill="#C9D4E3" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500">
+    C / C++ · Python · Java · JavaScript
+  </text>
+  <text x="28" y="90" fill="#C9D4E3" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500">
+    Kotlin · SQL · Julia · Rust
+  </text>
+
+  <!-- subtle firefly dots -->
+  <circle cx="372" cy="15" r="1.8" fill="#76B900" opacity="0.85" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="0.2;0.95;0.3;0.85;0.2" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="388" cy="27" r="1.4" fill="#9FBF7A" opacity="0.7" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="0.15;0.8;0.25;0.7;0.15" dur="3.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="401" cy="18" r="1.2" fill="#C7F36B" opacity="0.65" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="0.1;0.75;0.2;0.6;0.1" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="380" cy="108" r="1.5" fill="#76B900" opacity="0.55" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="0.15;0.7;0.2;0.5;0.15" dur="3.1s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="396" cy="98" r="1.1" fill="#9FBF7A" opacity="0.45" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="0.1;0.55;0.18;0.4;0.1" dur="2.7s" repeatCount="indefinite"/>
+  </circle>
+</svg>
