@@ -1,21 +1,16 @@
-<svg width="520" height="40" viewBox="0 0 520 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="520" height="40" rx="6" fill="#0B0F14"/>
+<svg width="520" height="28" viewBox="0 0 520 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="28" rx="6" fill="#0B0F14"/>
 
-  <circle cx="16" cy="20" r="3" fill="#76B900">
+  <circle cx="16" cy="14" r="3" fill="#76B900">
     <animate attributeName="opacity" values="1;0.15;1;0.4;1" dur="1.6s" repeatCount="indefinite"/>
   </circle>
 
-  <text x="28" y="16" fill="#9FBF7A" font-family="monospace" font-size="12">
-    Boundary hit // adaptation triggered &
+  <text x="28" y="18" fill="#9FBF7A" font-family="monospace" font-size="12">
+    boundary hit // adaptation triggered // development with security in mind keeps us ahead 
     <animate attributeName="opacity" values="1;0.75;1;0.85;1" dur="1.8s" repeatCount="indefinite"/>
   </text>
 
-  <text x="28" y="30" fill="#9FBF7A" font-family="monospace" font-size="12">
-    Development with security in mind keeps us strong
-    <animate attributeName="opacity" values="1;0.75;1;0.85;1" dur="1.8s" repeatCount="indefinite"/>
-  </text>
-
-  <rect x="250" y="12" width="6" height="12" fill="#76B900">
+  <rect x="300" y="8" width="6" height="12" fill="#76B900">
     <animate attributeName="opacity" values="1;0;1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
 </svg>
