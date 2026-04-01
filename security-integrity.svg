@@ -1,0 +1,36 @@
+<svg width="420" height="154" viewBox="0 0 420 154" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="softGlow5" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="419" height="153" rx="10" fill="#0B0F14" stroke="#1E293B"/>
+
+  <path d="M28 14L38 18V25C38 31 33.5 35 28 37C22.5 35 18 31 18 25V18L28 14Z" stroke="#76B900" stroke-width="1.8" fill="none" filter="url(#softGlow5)"/>
+  <path d="M24 25L27 28L32 22" stroke="#9FBF7A" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="62" y="27" fill="#D7E3F4" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">
+    Systems Security &amp; Data Integrity
+  </text>
+
+  <line x1="20" y1="46.5" x2="400" y2="46.5" stroke="#1E293B"/>
+
+  <text x="28" y="68" fill="#C9D4E3" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500">
+    Process Isolation · Environment-Scoped Configs
+  </text>
+  <text x="28" y="90" fill="#C9D4E3" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500">
+    Schema Validation · Contract-Driven Pipelines
+  </text>
+  <text x="28" y="112" fill="#C9D4E3" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500">
+    Zero-Trust Service Boundaries
+  </text>
+
+  <circle cx="390" cy="20" r="1.5" fill="#C7F36B" opacity="0.7" filter="url(#softGlow5)">
+    <animate attributeName="opacity" values="0.15;0.8;0.2;0.65;0.15" dur="3.0s" repeatCount="indefinite"/>
+  </circle>
+</svg>
