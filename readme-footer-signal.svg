@@ -1,0 +1,87 @@
+<svg width="820" height="120" viewBox="0 0 820 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="blueGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="bgFade" x1="0" y1="0" x2="820" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0F14"/>
+      <stop offset="1" stop-color="#0A1220"/>
+    </linearGradient>
+
+    <linearGradient id="lineGlow" x1="80" y1="60" x2="740" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0.2"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#7DD3FC" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background panel -->
+  <rect x="0.5" y="0.5" width="819" height="119" rx="18" fill="url(#bgFade)" stroke="#1E293B"/>
+
+  <!-- outer framing lines -->
+  <path d="M28 30H120" stroke="#0EA5E9" stroke-opacity="0.35"/>
+  <path d="M700 30H792" stroke="#0EA5E9" stroke-opacity="0.35"/>
+  <path d="M28 90H120" stroke="#0EA5E9" stroke-opacity="0.2"/>
+  <path d="M700 90H792" stroke="#0EA5E9" stroke-opacity="0.2"/>
+
+  <!-- central signal line -->
+  <path d="M96 68
+           C150 68, 170 40, 220 40
+           C270 40, 280 82, 340 82
+           C400 82, 410 52, 470 52
+           C530 52, 540 78, 610 78
+           C670 78, 685 60, 724 60"
+        stroke="url(#lineGlow)"
+        stroke-width="2.2"
+        stroke-linecap="round"
+        filter="url(#blueGlow)"/>
+
+  <!-- nodes -->
+  <circle cx="220" cy="40" r="3.8" fill="#38BDF8" filter="url(#blueGlow)">
+    <animate attributeName="opacity" values="0.35;1;0.4;0.9;0.35" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="340" cy="82" r="3.2" fill="#7DD3FC" filter="url(#blueGlow)">
+    <animate attributeName="opacity" values="0.2;0.95;0.3;0.85;0.2" dur="3.1s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="470" cy="52" r="3.6" fill="#38BDF8" filter="url(#blueGlow)">
+    <animate attributeName="opacity" values="0.25;1;0.35;0.9;0.25" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="610" cy="78" r="3.4" fill="#7DD3FC" filter="url(#blueGlow)">
+    <animate attributeName="opacity" values="0.2;0.85;0.25;0.7;0.2" dur="3.3s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="724" cy="60" r="4.2" fill="#38BDF8" filter="url(#blueGlow)">
+    <animate attributeName="r" values="3.8;4.6;3.8" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.45;0.9;0.4" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- tiny floating particles -->
+  <circle cx="170" cy="28" r="1.6" fill="#7DD3FC" filter="url(#blueGlow)">
+    <animate attributeName="opacity" values="0.1;0.75;0.2;0.65;0.1" dur="4.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="285" cy="24" r="1.2" fill="#38BDF8" filter="url(#blueGlow)">
+    <animate attributeName="opacity" values="0.08;0.7;0.15;0.55;0.08" dur="3.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="548" cy="24" r="1.4" fill="#7DD3FC" filter="url(#blueGlow)">
+    <animate attributeName="opacity" values="0.1;0.8;0.2;0.6;0.1" dur="4.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="650" cy="96" r="1.5" fill="#38BDF8" filter="url(#blueGlow)">
+    <animate attributeName="opacity" values="0.1;0.75;0.18;0.55;0.1" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- center label -->
+  <text x="410" y="106" text-anchor="middle" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="500" letter-spacing="1.2">
+    SIGNAL CONTINUES
+  </text>
+</svg>
