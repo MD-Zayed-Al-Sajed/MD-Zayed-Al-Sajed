@@ -51,6 +51,7 @@
     <br><br>
     <img src="security-integrity.svg" alt="Systems Security &amp; Data Integrity" width="420" />
     <img src="audio-art-game-engine.svg" alt="Audio, Art &amp; Game Engine" width="420" />
+    <img src="strategic-execution-box.svg" alt="Strategic Execution" width="420" />
   </div>
 </details>
 <p align="center">
