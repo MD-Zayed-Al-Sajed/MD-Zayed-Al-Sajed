@@ -1,10 +1,8 @@
-## I'm Zayed - Systems & SWE
-ꜱᴏʟᴠɪɴɢ ᴘʀᴏʙʟᴇᴍꜱ ᴀᴛ ᴛʜᴇ ɪɴᴛᴇʀꜱᴇᴄᴛɪᴏɴ ᴏꜰ ʀᴇᴀʟ-ᴛɪᴍᴇ ᴄᴏɴꜱᴛʀᴀɪɴᴛꜱ ᴀɴᴅ ᴅɪꜱᴛʀɪʙᴜᴛᴇᴅ ꜱʏꜱᴛᴇᴍꜱ, ꜰʀᴏᴍ 60ꜰᴘꜱ ᴇᴍʙᴇᴅᴅᴇᴅ ᴄᴏɴᴛʀᴏʟ ꜱʏꜱᴛᴇᴍꜱ ᴛᴏ ꜱᴜʙ-ꜱᴇᴄᴏɴᴅ ꜱᴛʀᴇᴀᴍɪɴɢ ᴘʟᴀᴛꜰᴏʀᴍꜱ.
+## I'm Zayed 
+Systems & Software engineer working in heterogeneous computing & real-time engine, AIoT. Experienced with sub-second latency AIOps platforms (Kafka, Faust, TimescaleDB) for high-velocity systems. Shipped a commercial Unity title on Steam and was a finalist in a 120+ competitor FinTech hackathon by architecting a novel payment solution MVP in 48 hours with business viability. Background with computer hardware, geospatial & civil systems,  strong with math & physics. Owning systems from stream ingestion to ML inference and solving problems at the intersection of real-time constraints and distributed platforms, with the focus on creating next-generation sovereign systems.
 <table>
 <tr>
 <td width="100%">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-Zayed-Al-Sajed&bg_color=0b0f14&color=c9d1d9&line=76b900&point=76b900&area=true&hide_border=true" width="100%" />
 
 <table align="center">
   <tr>
@@ -30,9 +28,6 @@
 
 <img src="https://raw.githubusercontent.com/MD-Zayed-Al-Sajed/MD-Zayed-Al-Sajed/main/github-metrics.svg" width="100%" />
 
-<p align="left">
-  <img src="./boundary-signal.svg" width="420" />
-</p>
 
 <details>
   <summary>
