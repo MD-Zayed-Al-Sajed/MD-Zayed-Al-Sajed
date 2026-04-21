@@ -1,5 +1,5 @@
 ## I'm Zayed 
-Systems & Software engineer working in heterogeneous computing & real-time engine, AIoT. Experienced with sub-second latency AIOps platforms (Kafka, Faust, TimescaleDB) for high-velocity systems. Shipped a commercial Unity title on Steam and was a finalist in a 120+ competitor FinTech hackathon by architecting a novel payment solution MVP in 48 hours with business viability. Background with computer hardware, geospatial & civil systems,  strong with math & physics. Owning systems from stream ingestion to ML inference and solving problems at the intersection of real-time constraints and distributed platforms, with the focus on creating next-generation sovereign systems.
+
 <table>
 <tr>
 <td width="100%">
@@ -27,6 +27,18 @@ Systems & Software engineer working in heterogeneous computing & real-time engin
 <br/>
 
 <img src="https://raw.githubusercontent.com/MD-Zayed-Al-Sajed/MD-Zayed-Al-Sajed/main/github-metrics.svg" width="100%" />
+
+<details>
+  <summary>
+    <div align="center">
+      <b>▼ About</b>
+    </div>
+  </summary>
+  <br>
+  <p align="left">
+    Systems & Software engineer working in heterogeneous computing & real-time engine, AIoT. Experienced with sub-second latency AIOps platforms (Kafka, Faust, TimescaleDB) for high-velocity systems. Shipped a commercial Unity title on Steam and was a finalist in a 120+ competitor FinTech hackathon by architecting a novel payment solution MVP in 48 hours with business viability. Background with computer hardware, geospatial & civil systems, strong with math & physics. Owning systems from stream ingestion to ML inference and solving problems at the intersection of real-time constraints and distributed platforms, with the focus on creating next-generation sovereign systems.
+  </p>
+</details>
 
 
 <details>
