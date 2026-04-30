@@ -36,7 +36,7 @@
   </summary>
   <br>
   <p align="left">
-    Systems & Software R&D engineer working in heterogeneous computing & real-time engine.  Experienced with sub-second latency AIOps platforms (Kafka, Faust, TimescaleDB) for high-velocity systems. Shipped a commercial Unity title on Steam and was a finalist in a 120+ competitor FinTech hackathon by architecting a novel payment solution MVP in 48 hours with business viability. Background with computer hardware, geospatial & high-fidelity graphic development,  strong with math & physics. Owning systems from stream ingestion to ML inference and solving problems at the intersection of real-time constraints and distributed platforms.
+    Systems & Software engineer working in heterogeneous computing & real-time engine, AIoT.  Experienced with sub-second latency AIOps platforms (Kafka, Faust, TimescaleDB) for high-velocity systems. Shipped a commercial Unity title on Steam and was a finalist in a 120+ competitor FinTech hackathon by architecting a novel payment solution MVP in 48 hours with business viability. Background with computer hardware, geospatial & high-fidelity graphic development, like to play with math & physics with real-world implementation.  Solving problems at the intersection of real-time constraints and distributed computing to build next-generation sovereign systems.
   </p>
 </details>
 
