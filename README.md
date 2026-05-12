@@ -18,9 +18,9 @@
   </tr>
 </table>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=800&color=52DEFF&center=true&vCenter=true&width=600&height=40&duration=3000&lines=What+problems+are+you+trying+to+solve+%E2%80%94;where+the+boundary+shattered%3F" alt="Typing SVG" />
-</p>
+</p> -->
 
 <br/>
 <hr style="border:0.5px solid #1f2933"/>
@@ -41,7 +41,7 @@
 </details>
 
 
-<details>
+<!-- <details>
   <summary>
     <div align="center">
       <b>▼ Explore Core Stack &amp; Creative Systems</b>
@@ -63,7 +63,7 @@
 </details>
 <p align="center">
   <img src="readme-footer-signal.svg" alt="Footer Signal" width="820" />
-</p>
+</p> -->
 
 </td>
 </tr>
