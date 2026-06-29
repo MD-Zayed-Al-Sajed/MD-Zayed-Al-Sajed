@@ -36,7 +36,7 @@
   </summary>
   <br>
   <p align="left">
-    Systems & Software engineer working in heterogeneous computing & real-time engine, AIoT. Experienced with sub-second latency AIOps platforms (Kafka, Faust, TimescaleDB) for high-velocity systems. Shipped a commercial Unity title on Steam and was a finalist in a 120+ competitor FinTech hackathon by architecting a novel payment solution MVP in 48 hours with business viability. A computer programming graduate with Dean's List honours, experience extends in computer hardware, geospatial technology, and high-fidelity graphics development. Applying mathematics and physics to real-world problems and solving problems at the intersection of real-time constraints and distributed computing systems.
+    Systems Engineer specializing in heterogeneous computing, high‐Concurrency data streaming, and hardware‐agnostic edge autonomy. with an established track record engineering sub‐second‐latency AIOps platforms (Kafka, Faust, TimescaleDB) for high‐velocity systems. Shipped a commercial Unity title on Steam and architected an award‐winning novel payment solution MVP with business viability among 120+ professionals in 48h. A Dean’s List honours Computer Programming graduate and former Civil Engineering scholar, Solving problems at the intersection of real‐time constraints and distributed systems.
   </p>
 </details>
 
